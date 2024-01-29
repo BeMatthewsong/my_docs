@@ -1,1 +1,3 @@
-[웹 성능 최적화](https://velog.io/@hsecode/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-5%EB%B6%84-%EC%99%84%EC%84%B1)
+- [웹 성능 최적화 방법 5분 완성](https://velog.io/@hsecode/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-5%EB%B6%84-%EC%99%84%EC%84%B1)
+- [검색엔진 최적화(SEO) 이유와 방법 10가지](https://velog.io/@hsecode/%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94SEO-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%B0%A9%EB%B2%95-10%EA%B0%80%EC%A7%80)
+- [핵심적인 웹 지표(LCP,FID,CLS) 개선하기](https://velog.io/@hsecode/%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%B5%EC%8B%AC%EC%A0%81%EC%9D%B8-%EC%9B%B9-%EC%A7%80%ED%91%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
