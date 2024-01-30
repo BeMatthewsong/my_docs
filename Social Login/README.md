@@ -59,20 +59,20 @@ import KakaoProvider from "next-auth/providers/kakao
 
 export const authOptions = {
   // Configure one or more authentication providers
-  // providers 설정하
+  // providers 설정하기
   providers: [
     GithubProvider({
       clientId: process.env.GITHUB_ID,
       clientSecret: process.env.GITHUB_SECRET,
     }),
     NaverProvider({
-          clientId: process.env.NAVER_CLIENT_ID,
-          clientSecret: process.env.NAVER_SECRET,
-        }),
-    	KakaoProvider({
-          clientId: process.env.KAKAO_CLIENT_ID,
-          clientSecret: process.env.KAKAO_SECRET,
-        }),
+        clientId: process.env.NAVER_CLIENT_ID,
+        clientSecret: process.env.NAVER_SECRET,
+      }),
+    KakaoProvider({
+        clientId: process.env.KAKAO_CLIENT_ID,
+        clientSecret: process.env.KAKAO_SECRET,
+      }),
     // ...add more providers here
   ],
 }
